@@ -38,6 +38,7 @@
 
 6. to show only top tree fruit .
 7. -```head -n 3 fruit.txt```
-
+11. To find the difference between fruits.txt and Colors.txt file
+12. ```diff fruit.txt colors.txt
 
  
