@@ -33,6 +33,9 @@
 5. To create a fruits.txt file and to view the content.
     - ``` vim fruits.txt ``` 
     -  ```  cat fruits.txt ``` 
+
+6. to show only top tree fruit .
+7. -```head -n 3 fruit.txt```
    
 ![3 5](https://user-images.githubusercontent.com/76457594/210311435-e6f8aa0c-dc0c-44a6-84e7-6e4c91e4ea87.png)
 
