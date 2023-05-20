@@ -1,0 +1,11 @@
+Write a Shell Script which prints I will complete #90DaysOofDevOps challenge
+
+``` echo "i will be complete #90daysofDevops challenge" ```
+
+Write a Shell Script to take user input, input from arguments and print the variables.
+
+to take user input and print the vriable
+```echo "enter your name "
+raed name
+echo "your name is ${name}"
+```
