@@ -9,3 +9,17 @@ to take user input and print the vriable
 raed name
 echo "your name is ${name}"
 ```
+
+Write an Example of If else in Shell Scripting by comparing 2 numbers
+
+```#!/bin/bash
+if ["$1" = "Devops"]
+then
+  echo "you are best engineer"
+  else
+    echo "you are also best"
+    
+fi
+#to exit if statement( it is commnet)
+```
+
